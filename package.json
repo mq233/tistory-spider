@@ -1,0 +1,17 @@
+{
+  "name": "tistory-spider",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mq233",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "socks-proxy-agent": "^5.0.0",
+    "superagent": "^5.2.2"
+  }
+}
